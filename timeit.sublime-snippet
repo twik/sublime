@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+from time import time
+for f in (${1:function_names,}):
+    t0 = time()
+    for i in range(${2:1000000}):
+        f()
+    t1 = time()
+    print f.func_name, t1 - t0, 'seconds'
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>timeit</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+    <description>benchmark a function</description>
+
+</snippet>

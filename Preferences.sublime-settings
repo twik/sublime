@@ -1,0 +1,50 @@
+{
+	"auto_complete_commit_on_tab": false,
+	"auto_reload_changed": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Oleg_Railscasts.tmTheme",
+	"copy_on_mouse_select": true,
+	"draw_indent_guides": false,
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		".idea",
+		"CVS",
+		"_build"
+	],
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 16.0,
+	"gpu_window_buffer": true,
+	"gutter": true,
+	"highlight_line": false,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"margin": 0,
+	"rulers":
+	[
+	],
+	"scroll_past_end": true,
+	"scroll_speed": 400.0,
+	"show_full_path": true,
+	"show_tab_close_buttons": false,
+	"sublimelinter": "save-only",
+	"sublimelinter_delay": 1,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

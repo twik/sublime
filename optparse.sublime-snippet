@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+import optparse
+
+
+def main():
+    p = optparse.OptionParser()
+    p.add_option("--sysadmin", '-s', default="twik", help="sysadmin name")
+    options, arguments = p.parse_args()
+    print 'Hello %s' % options.sysadmin
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>optparse</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>optparse</description>
+</snippet>

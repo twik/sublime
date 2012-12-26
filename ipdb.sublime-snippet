@@ -1,0 +1,12 @@
+<!-- ipdb -->
+<snippet>
+    <content><![CDATA[
+import ipdb; ipdb.set_trace()
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>ipdb</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.python</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>ipdb</description>
+</snippet>

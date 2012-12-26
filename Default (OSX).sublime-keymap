@@ -36,6 +36,7 @@
     { "keys": ["shift+f6"], "command": "rename_path", "args": {"paths": ["$file"]} },
 
     { "keys": ["ctrl+o"], "command": "run_macro_file", "args": {"file": "Packages/Default/Add Line Before.sublime-macro"}},
+    { "keys": ["ctrl+a"], "command": "move_to", "args": {"to": "bol"}},
     { "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol"}}
 
 ]

@@ -4,11 +4,11 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
-		"AngularJS",
 		"CoffeeCompile",
 		"CoffeeScript",
 		"DetectSyntax",
 		"emmet-sublime",
+		"Inc-Dec-Value",
 		"INI",
 		"Jinja2",
 		"Origami",

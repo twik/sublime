@@ -3,7 +3,6 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Alignment",
 		"CoffeeCompile",
 		"CoffeeScript",
 		"DetectSyntax",

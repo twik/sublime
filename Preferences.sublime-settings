@@ -2,6 +2,7 @@
 	"auto_complete_commit_on_tab": false,
 	"auto_reload_changed": true,
 	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/User/Oleg_Railscasts.tmTheme",
 	"copy_on_mouse_select": true,
 	"draw_indent_guides": false,
@@ -25,12 +26,12 @@
 	"font_size": 16.0,
 	"gpu_window_buffer": true,
 	"gutter": true,
-	"highlight_line": false,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Groovy"
+		"Groovy",
+		"Vintage"
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
